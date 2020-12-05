@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: 7580cc76343b1e541a6efb17bc19cec2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7321857049322947923
+    second: MiniK_Tileset_For_Tiled_0
+  - first:
+      213: -2388231190184855250
+    second: MiniK_Tileset_For_Tiled_1
+  - first:
+      213: -8727875910247035666
+    second: MiniK_Tileset_For_Tiled_2
+  - first:
+      213: -8347607238676867507
+    second: MiniK_Tileset_For_Tiled_3
+  - first:
+      213: -6776147711551545689
+    second: MiniK_Tileset_For_Tiled_4
+  - first:
+      213: -5335108732541620172
+    second: MiniK_Tileset_For_Tiled_5
+  - first:
+      213: -4048176394731513740
+    second: MiniK_Tileset_For_Tiled_6
+  - first:
+      213: -1793222752386915625
+    second: MiniK_Tileset_For_Tiled_7
+  - first:
+      213: -5307504132974580589
+    second: MiniK_Tileset_For_Tiled_8
+  - first:
+      213: 6279641630006554521
+    second: MiniK_Tileset_For_Tiled_9
+  - first:
+      213: -2314799579230733575
+    second: MiniK_Tileset_For_Tiled_10
+  - first:
+      213: -9037887799716984896
+    second: MiniK_Tileset_For_Tiled_11
+  - first:
+      213: -1197221934379020590
+    second: MiniK_Tileset_For_Tiled_12
+  - first:
+      213: 2314545304957857130
+    second: MiniK_Tileset_For_Tiled_13
+  - first:
+      213: 6990027595390459387
+    second: MiniK_Tileset_For_Tiled_14
+  - first:
+      213: -4267456277055667806
+    second: MiniK_Tileset_For_Tiled_15
+  - first:
+      213: 4414678180020317836
+    second: MiniK_Tileset_For_Tiled_16
+  - first:
+      213: -5383347792215913033
+    second: MiniK_Tileset_For_Tiled_17
+  - first:
+      213: 1524457214259051180
+    second: MiniK_Tileset_For_Tiled_18
+  - first:
+      213: 8474285016196143961
+    second: MiniK_Tileset_For_Tiled_19
+  - first:
+      213: -4809663586114955683
+    second: MiniK_Tileset_For_Tiled_20
+  - first:
+      213: -7177022908045597257
+    second: MiniK_Tileset_For_Tiled_21
+  - first:
+      213: -3907974192238136173
+    second: MiniK_Tileset_For_Tiled_22
+  - first:
+      213: -2933647670060484715
+    second: MiniK_Tileset_For_Tiled_23
+  - first:
+      213: 5964425549231502384
+    second: MiniK_Tileset_For_Tiled_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 512
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b083583f212ed8438ab64f89022e8a9
+      internalID: 7321857049322947923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126157c679e1ce946a65fae527f92228
+      internalID: -2388231190184855250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9bbd2cdab43e445b66dfcf1a31868e
+      internalID: -8727875910247035666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b164ab6bf5585d488dcd4cea430eb50
+      internalID: -8347607238676867507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0fd1da3abf67440a3d07b257d134d7
+      internalID: -6776147711551545689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a94052d9ab78341bd468c7aaf9208e
+      internalID: -5335108732541620172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 590
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dfd4a3ca36e4443ad524b052f9c902
+      internalID: -4048176394731513740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 590
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb348878fb6449d468f1d526a67671d1
+      internalID: -1793222752386915625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616f42d085dc6ae4190cfa9b37607092
+      internalID: -5307504132974580589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070fdd010059fcc4eb7ea2ddad481826
+      internalID: 6279641630006554521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 556
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b48aeee3b7ce94ba25d41c64f41ca5
+      internalID: -2314799579230733575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 556
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2286b49157c225d4e9313103e9693f60
+      internalID: -9037887799716984896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e780812453021469aa62d1a0ae9ff1
+      internalID: -1197221934379020590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013a6b7552c4ee8498f2e82c2916ebbc
+      internalID: 2314545304957857130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfd45b9e3b0618449dbb835f1b51d6e
+      internalID: 6990027595390459387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9507a47e7c48d2448b8cecdd6d70181b
+      internalID: -4267456277055667806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd4ad26fe0ed1c4da95fb37af29fca3
+      internalID: 4414678180020317836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2a9e3789d2e2b4095ed51db6f78b49
+      internalID: -5383347792215913033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd6c7fca21444c448cf8757590a7bc9
+      internalID: 1524457214259051180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf1814bbf6df9c46a2ee771471818b6
+      internalID: 8474285016196143961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_20
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 416
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bab1494e99babb40b9ed8d065801d2d
+      internalID: -4809663586114955683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 416
+        width: 82
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca243d6762cac542a09929a44988afd
+      internalID: -7177022908045597257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 106
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c4844d49e7eed4099db1caacb3d249
+      internalID: -3907974192238136173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_23
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 416
+        width: 106
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35dab29ac3a4e94babb1808075e97fe
+      internalID: -2933647670060484715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniK_Tileset_For_Tiled_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412539d012f1eb14f82780c1c5277891
+      internalID: 5964425549231502384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

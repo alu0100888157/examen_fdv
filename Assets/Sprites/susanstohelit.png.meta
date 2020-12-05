@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: cc677894d8997414f89232be77deb9d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3442412008225052441
+    second: susanstohelit_0
+  - first:
+      213: -4626522635420960283
+    second: susanstohelit_1
+  - first:
+      213: 2335244317384968498
+    second: susanstohelit_2
+  - first:
+      213: 1396853190465467578
+    second: susanstohelit_3
+  - first:
+      213: -3853873328019143248
+    second: susanstohelit_4
+  - first:
+      213: -2430496309430070436
+    second: susanstohelit_5
+  - first:
+      213: 9165649963909742196
+    second: susanstohelit_6
+  - first:
+      213: 9168533994405702621
+    second: susanstohelit_7
+  - first:
+      213: 7269540822492322420
+    second: susanstohelit_8
+  - first:
+      213: 6528524640566360120
+    second: susanstohelit_9
+  - first:
+      213: 6846457188251187254
+    second: susanstohelit_10
+  - first:
+      213: -814880332921352268
+    second: susanstohelit_11
+  - first:
+      213: -290109615266513629
+    second: susanstohelit_12
+  - first:
+      213: -4702395246776085244
+    second: susanstohelit_13
+  - first:
+      213: 3595290394712210305
+    second: susanstohelit_14
+  - first:
+      213: 3156833599386348505
+    second: susanstohelit_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: susanstohelit_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 146
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca170b83f66c0a428baf4a01bcb9c67
+      internalID: -3442412008225052441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susanstohelit_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 144
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be02fc9ae0d3e124eb8a6175ed3a0a0a
+      internalID: -4626522635420960283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susanstohelit_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 146
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000649c37b269cf4681222e3d61bb94d
+      internalID: 2335244317384968498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susanstohelit_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c76fe79dc5e4e24ba9b363c7555dbc7
+      internalID: 1396853190465467578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susanstohelit_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 98
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101698d87ac4f224d8707f2a5ca40ca2
+      internalID: -3853873328019143248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susanstohelit_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 98
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e080779582e3c4b8afd09818eb5169
+      internalID: -2430496309430070436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susanstohelit_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 98
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be39392fa0b4824983aa73978eea456
+      internalID: 9165649963909742196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susanstohelit_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 98
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5891c4e279632014a8f343253b08c0d6
+      internalID: 9168533994405702621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susanstohelit_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 50
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c94fc90905b3ac4a8f8f353926c0313
+      internalID: 7269540822492322420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susanstohelit_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 50
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87e89d96ce10b248915ea0ab88b1355
+      internalID: 6528524640566360120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susanstohelit_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08bb9f29d68b5441a10676d5b22f29d
+      internalID: 6846457188251187254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susanstohelit_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 50
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7164df40b1a3fef438a2f0c037a0be42
+      internalID: -814880332921352268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susanstohelit_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b03b3928691b3458ab4211a795fb6f
+      internalID: -290109615266513629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susanstohelit_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e71b4d6e93db9349a94072e38554d6b
+      internalID: -4702395246776085244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susanstohelit_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdcadb36dd0c08439b746b55e79e342
+      internalID: 3595290394712210305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susanstohelit_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec4186d0fda7744b8a6dc2d270e6af0
+      internalID: 3156833599386348505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

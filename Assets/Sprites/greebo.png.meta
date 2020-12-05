@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 976933a5ac02d1f4b8dcf64bf9482772
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1955279382089287522
+    second: greebo_0
+  - first:
+      213: 4066216456090071533
+    second: greebo_1
+  - first:
+      213: 1299155561406448633
+    second: greebo_2
+  - first:
+      213: -4361047830885177361
+    second: greebo_3
+  - first:
+      213: -2969923942714227623
+    second: greebo_4
+  - first:
+      213: 6483834783259546371
+    second: greebo_5
+  - first:
+      213: 5480701268854457210
+    second: greebo_6
+  - first:
+      213: -6116117956087616332
+    second: greebo_7
+  - first:
+      213: -4000229539141254019
+    second: greebo_8
+  - first:
+      213: -1186485398068741228
+    second: greebo_9
+  - first:
+      213: 1274057610903222817
+    second: greebo_10
+  - first:
+      213: -519933014805013659
+    second: greebo_11
+  - first:
+      213: -5082263015372032425
+    second: greebo_12
+  - first:
+      213: -4792391847470150277
+    second: greebo_13
+  - first:
+      213: -7553745560052907809
+    second: greebo_14
+  - first:
+      213: -8369928309454306916
+    second: greebo_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: greebo_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 97
+        width: 11
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b90897b42282049aab1030935dff46
+      internalID: -1955279382089287522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greebo_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 97
+        width: 13
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82227c775eef59c4a829a5060163245a
+      internalID: 4066216456090071533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greebo_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 97
+        width: 11
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dca5aadc74f1048a093dd03c9f4a3a
+      internalID: 1299155561406448633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greebo_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 97
+        width: 13
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f735749d26e9b4a448a0e99a56bd0f3f
+      internalID: -4361047830885177361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greebo_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 66
+        width: 26
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0560e3c0986b664da1da17ad87d3151
+      internalID: -2969923942714227623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greebo_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 66
+        width: 28
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9b65d4a57c85741a140c44c4aeeb57
+      internalID: 6483834783259546371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greebo_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 65
+        width: 29
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27ab448e50c16f42b80423406563d41
+      internalID: 5480701268854457210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greebo_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 66
+        width: 27
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e135dd206e7f29b4f811491adca43511
+      internalID: -6116117956087616332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greebo_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 34
+        width: 26
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da51f1431d9bcb7449b4186fa26d357f
+      internalID: -4000229539141254019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greebo_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 34
+        width: 28
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda99e5fa27cec344affa75671f5da96
+      internalID: -1186485398068741228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greebo_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33
+        width: 29
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb9d40dcbf53db4187d2e8714cdf976
+      internalID: 1274057610903222817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greebo_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 34
+        width: 27
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247136be266e582478a282f02a29ce8d
+      internalID: -519933014805013659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greebo_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 11
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90cd45355d1638439a9f181fd5632f6
+      internalID: -5082263015372032425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greebo_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1
+        width: 11
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2b6aab93c0c544f8d69b8021a85fc6
+      internalID: -4792391847470150277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greebo_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 11
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b17a9a133d2bbb4fb9111e606dc0c0d
+      internalID: -7553745560052907809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greebo_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1
+        width: 11
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0b0cc8cd17c424e89ea548ec62d700
+      internalID: -8369928309454306916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

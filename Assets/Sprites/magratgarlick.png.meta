@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 28721a9fcfa4d064ebcaa81d174f19a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3263029362108888295
+    second: magratgarlick_0
+  - first:
+      213: -4966654043059307222
+    second: magratgarlick_1
+  - first:
+      213: -2555455992847698170
+    second: magratgarlick_2
+  - first:
+      213: -1801898068732353933
+    second: magratgarlick_3
+  - first:
+      213: 1584816216706903140
+    second: magratgarlick_4
+  - first:
+      213: -7239519030695696913
+    second: magratgarlick_5
+  - first:
+      213: -8692666789569696997
+    second: magratgarlick_6
+  - first:
+      213: -3103566553007754899
+    second: magratgarlick_7
+  - first:
+      213: -2800554942801647987
+    second: magratgarlick_8
+  - first:
+      213: -7270844092733701782
+    second: magratgarlick_9
+  - first:
+      213: 2841247345171226950
+    second: magratgarlick_10
+  - first:
+      213: 4773833924621539376
+    second: magratgarlick_11
+  - first:
+      213: -826273666680405424
+    second: magratgarlick_12
+  - first:
+      213: 7531253853499492301
+    second: magratgarlick_13
+  - first:
+      213: 7035744567978165086
+    second: magratgarlick_14
+  - first:
+      213: -8483280372906907056
+    second: magratgarlick_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magratgarlick_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 146
+        width: 27
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2513367b68c534a4ea696f52312a23eb
+      internalID: -3263029362108888295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magratgarlick_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 144
+        width: 27
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed46d629a0065c448dd0e085bdaf839
+      internalID: -4966654043059307222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magratgarlick_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 146
+        width: 27
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a518586135dbdd4fa41f26140427779
+      internalID: -2555455992847698170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magratgarlick_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 27
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b203ff047fc5b44b62b7b8258a328e
+      internalID: -1801898068732353933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magratgarlick_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 98
+        width: 23
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b002d2ec97db6564997ed7b37c3f6c5f
+      internalID: 1584816216706903140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magratgarlick_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 98
+        width: 24
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2664c08b2437f243ba59df3e2edfc9d
+      internalID: -7239519030695696913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magratgarlick_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 98
+        width: 23
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a8f67066ab7e64da2b8f3d57e6455f
+      internalID: -8692666789569696997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magratgarlick_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 98
+        width: 23
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ede911f03ab1548ab72ac083a55a69
+      internalID: -3103566553007754899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magratgarlick_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 50
+        width: 23
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3fb06024bb2c245b06b554cb530a34
+      internalID: -2800554942801647987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magratgarlick_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 50
+        width: 24
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3beaae5965b47f4794862121a1cc011
+      internalID: -7270844092733701782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magratgarlick_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 23
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5329cebb2ebcfb84aa2541f24c1dace1
+      internalID: 2841247345171226950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magratgarlick_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 50
+        width: 23
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5db9d13f16bae04ca7bacfbb003d1a0
+      internalID: 4773833924621539376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magratgarlick_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 27
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b6a896213db064db422632be2c1619
+      internalID: -826273666680405424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magratgarlick_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 27
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f58831b01b7d943a6f15b576a5c9e1
+      internalID: 7531253853499492301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magratgarlick_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 27
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a4cb8c933e56942abbe21cb06e8f14
+      internalID: 7035744567978165086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magratgarlick_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 27
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf23313cab25a24bb0f05019c5d858b
+      internalID: -8483280372906907056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
